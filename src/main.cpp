@@ -1,6 +1,8 @@
+//PRUEBA GIT.
 #include <WiFi.h>
 #include <WebServer.h>
 
+int a;
 // Datos de tu red WiFi
 const char* ssid = "FiberCorp WiFi758";
 const char* password = "30716644789";
